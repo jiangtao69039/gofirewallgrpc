@@ -1,4 +1,4 @@
-module bb.bintools.cn/scm/cqfw/gofirewallgrpc.git
+module github.com/jiangtao69039/gofirewallgrpc
 
 go 1.23.4
 
